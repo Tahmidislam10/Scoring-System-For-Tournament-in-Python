@@ -48,7 +48,10 @@ There are specific functions for each event (singleart(), singlemaths(), singles
 Each function asks for participant names and points.
 Error Handling:
 Input validation ensures that the entered points are numbers within the accepted range (1-20).
-Example Output
+
+
+**Example Output**
+
 ![image](https://github.com/user-attachments/assets/71dbab41-31f3-428e-b403-f5e90ce645d2)
 
 
