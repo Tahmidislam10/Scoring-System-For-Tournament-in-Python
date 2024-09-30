@@ -1,16 +1,20 @@
 **Competition Scoring Program**
+
 This Python Application is designed to automate the scoring process for a multi-event competition involving individuals and teams. The program allows for input of points for various events and calculates rankings for participants.
 
 **Course Information**
+
 Course: BTEC Level 3 Extended Diploma in IT
 Unit: Programming
 Term: Spring 2021
 
 **Libraries Used**
+
 sys: Used for handling system-related functions, such as safely exiting the program.
 The program doesn't require any external libraries, so no additional installations are needed beyond the Python standard library.
 
 **Features**
+
 Supports scoring for multiple events, including:
 Art
 English
@@ -28,6 +32,7 @@ Execute the script using the following command:
 python competition_scoring.py
 
 **Choose Scoring Mode:**
+
 The program will prompt you to choose between teams or individual mode.
 Follow the prompts to input participant names and their respective scores for each event.
 Input Points:
@@ -48,7 +53,9 @@ Example Output
 
 
 **Contributing**
+
 Feel free to fork the repository and submit pull requests for any improvements or new features.
 
 **License**
+
 This project is licensed under the MIT License.
